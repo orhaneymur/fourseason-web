@@ -189,4 +189,3 @@ npx vercel        # or push to GitHub and import at vercel.com
 
 Set the production domain in `site.url` first so the sitemap and OG tags point
 at the right host.
-"# fourseason-web" 
